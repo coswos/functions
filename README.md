@@ -1,2 +1,2 @@
 # functions
-working blocks of code
+working blocks of code for reuse
